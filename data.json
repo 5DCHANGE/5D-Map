@@ -1,0 +1,784 @@
+{
+  "name": "XSEED",
+  "color": "orange",
+  "children": [
+    {
+      "name": "SUSTENANCE",
+      "color": "red",
+      "children": [
+        {
+          "name": "ASSESMENT",
+          "children": [
+            {
+              "name": "Business Vitality Audit",
+              "children": [
+                {
+                  "name": "Current and Ideal Reality",
+                  "children": [
+                    {
+                      "name": "Online form",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "SEEDS Map",
+              "children": [
+                {
+                  "name": "Greatest Potential",
+                  "children": [
+                    {
+                      "name": "link to interactive map",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Brand Vitality",
+              "children": [
+                {
+                  "name": "Creative Exploration",
+                  "children": [
+                    {
+                      "name": "archetype quiz unique mechanism",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "EXTRACTION",
+          "children": [
+            {
+              "name": "Personality Extraction",
+              "children": [
+                {
+                  "name": "Authenticity",
+                  "children": [
+                    {
+                      "name": "personality extraction",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Narrative Extraction",
+              "children": [
+                {
+                  "name": "Reflection and Awarness",
+                  "children": [
+                    {
+                      "name": "narrative extraction",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Vision Extraction",
+              "children": [
+                {
+                  "name": "Align Purpose with Potential",
+                  "children": [
+                    {
+                      "name": "vision extraction",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ALIGNMENT",
+          "children": [
+            {
+              "name": "Client Profile",
+              "children": [
+                {
+                  "name": "Service Focus",
+                  "children": [
+                    {
+                      "name": "client profile",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Energetic Alignment",
+              "children": [
+                {
+                  "name": "Awarness",
+                  "children": [
+                    {
+                      "name": "energetic alignment exercise",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Intentions",
+              "children": [
+                {
+                  "name": "Alignment",
+                  "children": [
+                    {
+                      "name": "intention-setting exercise",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "REFLECTION",
+          "children": [
+            {
+              "name": "Content Bank",
+              "children": [
+                {
+                  "name": "Themes, Quotes, Topics",
+                  "children": [
+                    {
+                      "name": "extracted content bank with themes, topics, quotes",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Social Media Optimisation",
+              "children": [
+                {
+                  "name": "Elevation and Standarisation",
+                  "children": [
+                    {
+                      "name": "community connection quide",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Feedback",
+              "children": [
+                {
+                  "name": "Testimonials",
+                  "children": [
+                    {
+                      "name": "feedback video call template feedback form template",
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+   {
+    "name": "STABILITY",
+     "color": "blue",
+    "children": [
+     {
+      "name": "BUSINESS STRATEGY",
+      "children": [
+       {
+        "name": "Annual Gameplan",
+        "children": [
+         {
+          "name": "Goals and Accountability",
+          "children": [
+           {
+            "name": "annual gameplan template",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Financail Projections",
+        "children": [
+         {
+          "name": "Pace and Potential",
+          "children": [
+           {
+            "name": "financial projections spreadsheet /asana",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Branding",
+        "children": [
+         {
+          "name": "Brand Colours, Fonts, Logos and Icons",
+          "children": [
+           {
+            "name": "http://5d-change-branding.showit.site/ or inhouse brand guide",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "MESSAGE TO MARKET",
+      "children": [
+       {
+        "name": "Keystone Messaging",
+        "children": [
+         {
+          "name": "Message to Market Match",
+          "children": [
+           {
+            "name": "keystone messaging spreadsheet /form",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Features - Benefits",
+        "children": [
+         {
+          "name": "Offer Clarity / Congruent communication",
+          "children": [
+           {
+            "name": "keystone messaging",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Offer Structures",
+        "children": [
+         {
+          "name": "Service Delivery + inclusions",
+          "children": [
+           {
+            "name": "service offer mapping",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "SERVICE STRUCTURE",
+      "children": [
+       {
+        "name": "Program Creation",
+        "children": [
+         {
+          "name": "Effective, efficient Service Delivery",
+          "children": [
+           {
+            "name": "service deliver mapping",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Asset Creation",
+        "children": [
+         {
+          "name": "Intellectual Property",
+          "children": [
+           {
+            "name": "independent",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Onboarding SOPs",
+        "children": [
+         {
+          "name": "welcome letter and communication channel set-up",
+          "children": [
+           {
+            "name": "welcome email template onboarding form + data collection communication channel welcome and engagement community welcome and engagement",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "SOCIAL ENGAGEMENT",
+      "children": [
+       {
+        "name": "Social Media Tracking",
+        "children": [
+         {
+          "name": "Audience Assesment",
+          "children": [
+           {
+            "name": "social media tracker social media report",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Congruent Communication",
+        "children": [
+         {
+          "name": "intentionality and faciliation",
+          "children": [
+           {
+            "name": "TIP",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Community Connection",
+        "children": [
+         {
+          "name": "Value, Resonance and conscious connection through understanding need",
+          "children": [
+           {
+            "name": "TAP",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+
+   {
+    "name": "SUSTAINABILITY",
+     "color": "green",
+    "children": [
+     {
+      "name": "PORTALS",
+      "children": [
+       {
+        "name": "Platform Introductions",
+        "children": [
+         {
+          "name": "Landing Pages, App and Analytics",
+          "children": [
+           {
+            "name": "Platform intro video",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Social Media",
+        "children": [
+         {
+          "name": "Audience to Client Journey",
+          "children": [
+           {
+            "name": "Transformational Awarness Process Transformational Action Plan social media handbooks (incl profile optimisation) social media strategies",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Story For Change",
+        "children": [
+         {
+          "name": "self-reflection, self-expression, resonance and connection",
+          "children": [
+           {
+            "name": "video and audio content",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "PROGRAM",
+      "children": [
+       {
+        "name": "Content Creation",
+        "children": [
+         {
+          "name": "Effective and Efficient Delivery",
+          "children": [
+           {
+            "name": "written and video content",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Access inclusions and investment",
+        "children": [
+         {
+          "name": "Value, resonance and consciuos connection through trusting solutions",
+          "children": [
+           {
+            "name": "program - SEED of Change sales letter / pitch deck / invitation/ Sd change handbook program timeline asana",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Community Space",
+        "children": [
+         {
+          "name": "Connection and Support",
+          "children": [
+           {
+            "name": "channels participant engagement strategy community engagement strategy",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "PROCESSES",
+      "children": [
+       {
+        "name": "Access Streams",
+        "children": [
+         {
+          "name": "Attractive touchpoints / alluring entry points effective, efficient, enjoyable flow",
+          "children": [
+           {
+            "name": "TIP - access strams",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Community Engagement",
+        "children": [
+         {
+          "name": "value, resonance, commitment and impact",
+          "children": [
+           {
+            "name": "launch strategy template variables for launch 1 timeframes (2,4,6 weeks) 2 platforms 3 journeys 4 collaboration",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Journey Path Build",
+        "children": [
+         {
+          "name": "Technical Functioning",
+          "children": [
+           {
+            "name": "Platform funnel builder TIP - access stream sequences / funnel maps",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "PRIORITIES",
+      "children": [
+       {
+        "name": "Location-Financial-Time Freed",
+        "children": [
+         {
+          "name": "Alignment - internal ambitions and external choices",
+          "children": [
+           {
+            "name": "discussion",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Purpose",
+        "children": [
+         {
+          "name": "revitalising the soil / fortifying the foundations",
+          "children": [
+           {
+            "name": "ect on vision, mission purpose statement - in executive summary of TAP",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Leadership",
+        "children": [
+         {
+          "name": "awareness of energetic capacity, leadership style, contributions",
+          "children": [
+           {
+            "name": "discussion",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+
+   {
+    "name": "SCALABILITY",
+     "color": "yellow",
+    "children": [
+     {
+      "name": "ACQUISITION",
+      "children": [
+       {
+        "name": "Rapport",
+        "children": [
+         {
+          "name": "relatability, recognition, rosonance, relationship",
+          "children": [
+           {
+            "name": "",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Launch",
+        "children": [
+         {
+          "name": "community connection, client commitment, congruent cohort, transformational impact",
+          "children": [
+           {
+            "name": "launch strategy",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Cocreation Clients",
+        "children": [
+         {
+          "name": "transformational impact",
+          "children": [
+           {
+            "name": "delivery trackers - delivery strategy (objectives, outcomes etc etc feedback testimonial Qs impact markers/ report / visual",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "DELIVERY",
+      "children": [
+       {
+        "name": "Goals",
+        "children": [
+         {
+          "name": "Objectives and ideal Outcomes",
+          "children": [
+           {
+            "name": "delivery trackers - delivery strategy (objectives, outcomes etc etc feedback testimonial Qs impact markers/ report / visual",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Success Markers",
+        "children": [
+         {
+          "name": "Quantitative and Qualitative",
+          "children": [
+           {
+            "name": "deliver trackers feedback testimonial Qs / impact markers / report / visual",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Feedback",
+        "children": [
+         {
+          "name": "Check-ins and Testimonial",
+          "children": [
+           {
+            "name": "delivery trackers feedback testimonial Qs",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "RETENTION",
+      "children": [
+       {
+        "name": "Client Needs",
+        "children": [
+         {
+          "name": "Changing and Elevating SEEDS map",
+          "children": [
+           {
+            "name": "business vitality audit, seeds map",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Evolution Offer",
+        "children": [
+         {
+          "name": "Finite or Retainer",
+          "children": [
+           {
+            "name": "service-offers",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Resonance",
+        "children": [
+         {
+          "name": "Deliver and Outcomes",
+          "children": [
+           {
+            "name": "discussion",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "EVOLUTION",
+      "children": [
+       {
+        "name": "Automations",
+        "children": [
+         {
+          "name": "Software",
+          "children": [
+           {
+            "name": "",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Collaborations",
+        "children": [
+         {
+          "name": "Team and Business Ecosystem",
+          "children": [
+           {
+            "name": "",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Supportive Diversification",
+        "children": [
+         {
+          "name": "Service expansion / product inclusion",
+          "children": [
+           {
+            "name": "",
+            "value": 1
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+}
